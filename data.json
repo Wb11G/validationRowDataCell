@@ -1,0 +1,1597 @@
+{
+    "info": {
+        "name": "file.xlsx",
+        "creator": "",
+        "lastmodifiedby": "Microsoft Office User",
+        "createdTime": "",
+        "modifiedTime": "2023-03-27T12:17:24Z",
+        "company": "",
+        "appversion": "16.0300"
+    },
+    "sheets": [
+        {
+            "name": "Sheet1",
+            "config": {
+                "borderInfo": [
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 0,
+                            "col_index": 0,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 0,
+                            "col_index": 1,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 1,
+                            "col_index": 0,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 1,
+                            "col_index": 1,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 2,
+                            "col_index": 0,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 2,
+                            "col_index": 1,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 3,
+                            "col_index": 0,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 3,
+                            "col_index": 1,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 4,
+                            "col_index": 0,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 4,
+                            "col_index": 1,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 5,
+                            "col_index": 0,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 5,
+                            "col_index": 1,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 6,
+                            "col_index": 0,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    },
+                    {
+                        "rangeType": "cell",
+                        "value": {
+                            "row_index": 6,
+                            "col_index": 1,
+                            "l": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "r": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "t": {
+                                "style": 1,
+                                "color": "#000000"
+                            },
+                            "b": {
+                                "style": 1,
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ]
+            },
+            "index": "1",
+            "status": "1",
+            "order": "0",
+            "luckysheet_select_save": [
+                {
+                    "row": [
+                        0,
+                        0
+                    ],
+                    "column": [
+                        0,
+                        0
+                    ],
+                    "row_focus": 0,
+                    "column_focus": 0,
+                    "left": 0,
+                    "width": 69,
+                    "top": 0,
+                    "height": 20,
+                    "left_move": 0,
+                    "width_move": 69,
+                    "top_move": 0,
+                    "height_move": 20
+                }
+            ],
+            "zoomRatio": 1,
+            "showGridLines": "1",
+            "defaultColWidth": 69,
+            "defaultRowHeight": 20,
+            "celldata": [
+                {
+                    "r": 0,
+                    "c": 0,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "bg": "#BFBFBF",
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "bl": 1,
+                        "tb": 1,
+                        "v": "Name",
+                        "qp": 1,
+                        "m": "Name"
+                    }
+                },
+                {
+                    "r": 0,
+                    "c": 1,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "bg": "#BFBFBF",
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "bl": 1,
+                        "tb": 1,
+                        "v": "City",
+                        "qp": 1,
+                        "m": "City"
+                    }
+                },
+                {
+                    "r": 1,
+                    "c": 0,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "John",
+                        "qp": 1,
+                        "m": "John"
+                    }
+                },
+                {
+                    "r": 1,
+                    "c": 1,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Seattle",
+                        "qp": 1,
+                        "m": "Seattle"
+                    }
+                },
+                {
+                    "r": 2,
+                    "c": 0,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Mike",
+                        "qp": 1,
+                        "m": "Mike"
+                    }
+                },
+                {
+                    "r": 2,
+                    "c": 1,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Los Angeles",
+                        "qp": 1,
+                        "m": "Los Angeles"
+                    }
+                },
+                {
+                    "r": 3,
+                    "c": 0,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Zach",
+                        "qp": 1,
+                        "m": "Zach"
+                    }
+                },
+                {
+                    "r": 3,
+                    "c": 1,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "New York",
+                        "qp": 1,
+                        "m": "New York"
+                    }
+                },
+                {
+                    "r": 4,
+                    "c": 0,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "John",
+                        "qp": 1,
+                        "m": "John"
+                    }
+                },
+                {
+                    "r": 4,
+                    "c": 1,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Seattle",
+                        "qp": 1,
+                        "m": "Seattle"
+                    }
+                },
+                {
+                    "r": 5,
+                    "c": 0,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Mike",
+                        "qp": 1,
+                        "m": "Mike"
+                    }
+                },
+                {
+                    "r": 5,
+                    "c": 1,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Los Angeles",
+                        "qp": 1,
+                        "m": "Los Angeles"
+                    }
+                },
+                {
+                    "r": 6,
+                    "c": 0,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Zach",
+                        "qp": 1,
+                        "m": "Zach"
+                    }
+                },
+                {
+                    "r": 6,
+                    "c": 1,
+                    "v": {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "New York",
+                        "qp": 1,
+                        "m": "New York"
+                    }
+                },
+                {
+                    "r": 7,
+                    "c": 0,
+                    "v": {
+                        "tb": 1,
+                        "v": "Wahyu",
+                        "qp": 1,
+                        "m": "Wahyu",
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        }
+                    }
+                },
+                {
+                    "r": 7,
+                    "c": 1,
+                    "v": {
+                        "tb": 1,
+                        "v": "bangko",
+                        "qp": 1,
+                        "m": "bangko",
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        }
+                    }
+                }
+            ],
+            "calcChain": [],
+            "jfgird_select_save": [],
+            "data": [
+                [
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "bg": "#BFBFBF",
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "bl": 1,
+                        "tb": 1,
+                        "v": "Name",
+                        "qp": 1,
+                        "m": "Name"
+                    },
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "bg": "#BFBFBF",
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "bl": 1,
+                        "tb": 1,
+                        "v": "City",
+                        "qp": 1,
+                        "m": "City"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "John",
+                        "qp": 1,
+                        "m": "John"
+                    },
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Seattle",
+                        "qp": 1,
+                        "m": "Seattle"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Mike",
+                        "qp": 1,
+                        "m": "Mike"
+                    },
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Los Angeles",
+                        "qp": 1,
+                        "m": "Los Angeles"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Zach",
+                        "qp": 1,
+                        "m": "Zach"
+                    },
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "New York",
+                        "qp": 1,
+                        "m": "New York"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "John",
+                        "qp": 1,
+                        "m": "John"
+                    },
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Seattle",
+                        "qp": 1,
+                        "m": "Seattle"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Mike",
+                        "qp": 1,
+                        "m": "Mike"
+                    },
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Los Angeles",
+                        "qp": 1,
+                        "m": "Los Angeles"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "Zach",
+                        "qp": 1,
+                        "m": "Zach"
+                    },
+                    {
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        },
+                        "fs": 11,
+                        "ff": "Calibri",
+                        "tb": 1,
+                        "v": "New York",
+                        "qp": 1,
+                        "m": "New York"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "tb": 1,
+                        "v": "Wahyu",
+                        "qp": 1,
+                        "m": "Wahyu",
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        }
+                    },
+                    {
+                        "tb": 1,
+                        "v": "bangko",
+                        "qp": 1,
+                        "m": "bangko",
+                        "ct": {
+                            "fa": "@",
+                            "t": "s"
+                        }
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ],
+            "load": "1",
+            "visibledatarow": [
+                21,
+                42,
+                63,
+                84,
+                105,
+                126,
+                147,
+                168,
+                189,
+                210,
+                231,
+                252,
+                273,
+                294,
+                315,
+                336,
+                357,
+                378,
+                399,
+                420,
+                441,
+                462,
+                483,
+                504,
+                525,
+                546
+            ],
+            "visibledatacolumn": [
+                70,
+                140,
+                210,
+                280,
+                350,
+                420,
+                490,
+                560,
+                630,
+                700,
+                770,
+                840,
+                910,
+                980,
+                1050,
+                1120,
+                1190,
+                1260,
+                1330,
+                1400,
+                1470,
+                1540,
+                1610,
+                1680,
+                1750,
+                1820
+            ],
+            "ch_width": 1940,
+            "rh_height": 575,
+            "luckysheet_selection_range": []
+        }
+    ]
+}
